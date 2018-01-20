@@ -8,7 +8,7 @@
         <p><font size="6" >"{what}"</font></p>
         <br>
     </div>
-    
+
     <div class="info">
         <font size="5" >
             <p>Name: {who}</p>
